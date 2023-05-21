@@ -63,7 +63,8 @@ section {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url(images/1b5eef5c56bc331c6d4320bc58a181cf.jpg);
+  /* background-image: url(images/1b5eef5c56bc331c6d4320bc58a181cf.jpg); */
+  background-image: url(images/logo.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
