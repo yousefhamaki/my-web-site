@@ -183,6 +183,10 @@ section {
   border-radius: 10px;
   margin: 20px;
   max-width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .project-image img {
